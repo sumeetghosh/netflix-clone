@@ -1,0 +1,13 @@
+.Logo {
+  position: fixed;
+  left: 0;
+  top: 10px;
+  width: 100px;
+  object-fit: contain;
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.Logo img {
+  width: 100%;
+}
